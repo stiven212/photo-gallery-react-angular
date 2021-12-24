@@ -3,7 +3,7 @@
 
 Los pasos para generar APKs y el funcionamiento de las aplicaciones no cambian si se usa React o Angular. A continuación se evidencia esto:
 
-###Angular
+### Angular
 La estructura del proyecto creado con Angular es la siguiente
 ![image](https://user-images.githubusercontent.com/66144847/147365421-f081563e-0f6d-4475-8c77-ea5aff1e5541.png)
 
