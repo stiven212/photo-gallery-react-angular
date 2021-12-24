@@ -27,3 +27,19 @@ Posterior a esto, se puede cargar el proyecto en el IDE de la plataforma (Androi
 
 ![image](https://user-images.githubusercontent.com/66144847/147365750-d483b347-380a-4cc3-858d-e05ff4a12416.png)
 ![image](https://user-images.githubusercontent.com/66144847/147365754-cf9fe7a3-922c-4f72-846d-8aaa07ed1894.png)
+
+### React
+Después de ejecutar los dos comandos anteriores se puede observar que la estructura del proyecto casi no cambia 
+
+![image](https://user-images.githubusercontent.com/66144847/147366149-260ac784-1c1b-47fd-90af-b6106a8d04a8.png)
+
+La aplicación se abre igual que antes
+
+![image](https://user-images.githubusercontent.com/66144847/147366224-a2fa6ba4-e433-4bcd-85c4-89bc1cfcd406.png)
+
+Y los archivos generados también son los mismos
+
+![image](https://user-images.githubusercontent.com/66144847/147366286-3697bbfb-56fb-4708-8769-b548cfc7ea27.png)
+![image](https://user-images.githubusercontent.com/66144847/147366291-e3776f3a-bc0f-4738-b7d3-cf370d9235d8.png)
+
+
